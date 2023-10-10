@@ -1,2 +1,2 @@
 # Demo
-This is my 1st pepo
+This is my 1st repo
